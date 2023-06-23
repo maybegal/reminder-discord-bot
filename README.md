@@ -16,7 +16,7 @@ Install the bot with npm
 To deploy the bot run
 
 ```bash
-  npm run start
+  npm start
 ```
 
 ## Authors
