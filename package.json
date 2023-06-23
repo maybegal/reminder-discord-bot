@@ -1,21 +1,21 @@
 {
-  "name": "reminder-discord-bot",
-  "version": "0.8.1",
-  "description": "A bot to send random messages at specified reminder times in a designated channel",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "keywords": [
-    "discord",
-    "reminder",
-    "bot"
-  ],
-  "author": "MaybeGal, CodeBlock",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^14.11.0",
-    "dotenv": "^16.2.0"
-  }
+	"name": "reminder-discord-bot",
+	"version": "1.0.0",
+	"description": "A bot to send random messages at specified reminder times in a designated channel",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [
+		"discord",
+		"reminder",
+		"bot"
+	],
+	"author": "MaybeGal, CodeBlock",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^14.11.0",
+		"dotenv": "^16.2.0"
+	}
 }

@@ -7,8 +7,7 @@ The bot built using the discord.js library. It has the ability to send random me
 Install the bot with npm
 
 ```bash
-  npm install Reminder-Discord-Bot
-  cd Reminder-Discord-Bot
+  npm install
 ```
 
 ## Deployment
