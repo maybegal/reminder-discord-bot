@@ -1,1 +1,23 @@
-![ReWeb](https://i.pinimg.com/564x/9d/d0/53/9dd053bbf549ce6a8fc0ccb310f983de.jpg)
+# Reminder Discord Bot
+
+## Installation
+
+Install the bot with npm
+
+```bash
+  npm install Reminder-Discord-Bot
+  cd Reminder-Discord-Bot
+```
+
+## Deployment
+
+To deploy the bot run
+
+```bash
+  npm run start
+```
+
+## Authors
+
+- [@MaybeGal](https://github.com/MaybeGal)
+- [@Code-Block2](https://github.com/Code-Block2)

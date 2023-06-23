@@ -1,10 +1,10 @@
 {
   "botToken": "MTExOTI1NjgwMDkyNDAyODk4MA.GU6q2I.vy0Kx-XLH8r6O_DtrXlhVCYMc83ceeiz-qTl0U",
-  "activityStatus": "בונה הצלחות! ואתרים",
+  "activityStatus": "בונה הצלחות!",
   "servers": {
     "ofekDigital": {
       "channelId": "1116819130054619250",
-      "reminderTimes": ["18:30", "07:15"],
+      "reminderTimes": ["07:15", "16:00", "18:30", "20:30", "22:00"],
       "messages": [
         "מחפש אתר מקצועי שמותאם לצרכים שלך? בדוק את ReWeb, המומחים בעיצוב ופיתוח אתרים בהתאמה אישית! הצטרף לשרת שלנו עוד היום!\nhttps://discord.gg/csAXP8VxRM\n[||@everyone||]",
         "צריך אתר אינטרנט מהיר? האתרים המותאמים שלנו מספקים ביצועים וחווית משתמש יוצאי דופן. הצטרף לשרת שלנו עכשיו ותחווה את המהירות!\nhttps://discord.gg/csAXP8VxRM\n[||@everyone||]",
