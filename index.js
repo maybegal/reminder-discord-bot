@@ -55,4 +55,4 @@ client.on("ready", () => {
   // And of course all rights resrved to MaybeGal.
 });
 
-client.login(config.botToken);
+client.login(process.env.token);
