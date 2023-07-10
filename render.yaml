@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: Reminder Discord Bot
-    region: frankfurt
-    runtime: node
-    plan: free
-    buildCommand: "npm install"
-    startCommand: "npm start"
-    autoDeploy: true
